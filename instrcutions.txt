@@ -1,0 +1,99 @@
+Contexte du projet
+Vous ếtes développeur pour une agence Web et le client Animalys vous demande de réaliser pour lui un Blog sur ses animaux, le blog sera constitué de plusieurs pages.
+
+Dans un premier temps et par souci de rapidité, il vous demande de simplement mettre en ligne les quelques articles en sa possession, après reflexion le blog sera fait en PHP.
+
+​
+
+En tant que développeur, votre rôle consistera à créer le projet de zéro, sans CMS et d'en poser les bases.
+
+​
+
+Langage serveur: Php
+
+CMS: aucun
+
+Modalités pédagogiques
+Réalisation d'un blog en Php
+
+​
+
+Vous réaliserez ces étapes en autonomie
+
+​
+
+Partie 1: 2h30
+
+​
+
+Création du projet et de sa structure.
+
+Création des pages principales:
+
+page d'accueil (un titre h1, une image en rapport avec l'activité du client et un paragraphe de texte)
+page de contact (un titre et une image différente de celle de la page d'accueil)
+​
+
+Header (menu permettant d'accéder à l'accueil et à la page de contact)
+Footer (Rappel des informations de l'entreprise: "nom de l'entreprise", "adresse", "téléphone", "email")
+​
+
+Le header et le footer doivent être identique sur toutes les pages.
+
+​
+
+Partie 2: 3h00
+
+A partir des données brutes fournies, afficher en page d'accueil tous les articles.
+
+Le fichier data.php doit être placé dans votre projet
+
+Les images doivent être placé dans le dossier de votre choix
+
+les articles en page d'accueil doivent etre dans des cards bootstrap, il ne doit y avoir que les 25 premiers caractères de l'article affichée.
+
+​
+
+Partie 3: 2h30
+
+Réaliser une page "single" affichant le contenu complet d'un article.
+
+Cette page doit être accessible depuis un lien par article affiché sur la page d'accueil.
+
+​
+
+Partie 4: 3h00
+
+Créer un formulaire sur la page de Contact.
+
+Les champs demandés:
+
+nom
+email
+sujet (liste déroulante)
+message (texte long)
+Bonus: empécher de soumettre le formulaire en cas de présence de mots "interdits" (prédéfinis dans une liste donnée) dans le champs message.
+
+​
+
+Partie 5: 2h00
+
+Intégrer un composant sur la page d'accueil qui compte le nombre de pages visitées sur le site.
+
+Dans un second temps, faire de même, mais en étant capable d'afficher le détails des visites page par page.
+
+Modalités d'évaluation
+Relecture de vos livrables par le formateur / la formatrice.
+
+Livrables
+Repository Git
+
+Critères de performance
+Toutes les pages demandées sont présentes et fonctionneles:
+- il est possible de naviguer sur tous les pages principales depuis le menu d'en-tête du site
+- la page d'accueil permet de consulter tous les articles du site  et propose un lien vers le détail de chaque article
+- la page single permet de consulter le détail de n'importe quel article
+- la page contact comporte un formulaire avec tous les champs demandés et restitue parfaitement les informations rentrés par l'utilisateur après la soumission.
+- la page d'accueil comporte une section avec un compteur des visites de l'utilisateur sur chaque page du site
+
+- le projet est bien structuré et le code suit les bonnes pratiques et conventions de nommages.
