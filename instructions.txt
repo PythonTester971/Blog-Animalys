@@ -24,7 +24,6 @@ Vous réaliserez ces étapes en autonomie
 
 Partie 1: 2h30
 
-​
 
 Création du projet et de sa structure.
 
@@ -40,7 +39,8 @@ Footer (Rappel des informations de l'entreprise: "nom de l'entreprise", "adresse
 
 Le header et le footer doivent être identique sur toutes les pages.
 
-​
+​ 
+
 
 Partie 2: 3h00
 
@@ -81,6 +81,21 @@ Partie 5: 2h00
 Intégrer un composant sur la page d'accueil qui compte le nombre de pages visitées sur le site.
 
 Dans un second temps, faire de même, mais en étant capable d'afficher le détails des visites page par page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Modalités d'évaluation
 Relecture de vos livrables par le formateur / la formatrice.
